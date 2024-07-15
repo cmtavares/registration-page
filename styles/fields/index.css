@@ -1,4 +1,6 @@
+@import url(input.css);
 @import url(droparea.css);
+@import url(radio.css);
 
 input, textarea, select {
   appearance: none;
